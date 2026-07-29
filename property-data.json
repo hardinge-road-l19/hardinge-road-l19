@@ -19,7 +19,7 @@
     "name": "Entwistle Green - Allerton Sales",
     "viewingPhone": "0151 453 3741",
     "officePhone": "01513 827414",
-    "emailContactUrl": "https://www.zoopla.co.uk/for-sale/details/contact/73832980/"
+    "contactUrl": "https://www.zoopla.co.uk/for-sale/details/contact/73832980/"
   },
   "nearestStations": [
     {
@@ -42,5 +42,6 @@
     "termYears": 30
   },
   "lastUpdated": "2026-07-29",
-  "url": "https://hardinge-road-l19.github.io/hardinge-road-l19/"
+  "url": "https://hardinge-road-l19.github.io/hardinge-road-l19/",
+  "verifiedAnswerPolicy": "The on-page property question search answers only from facts published on this website and directs unknown questions to the selling agent."
 }
