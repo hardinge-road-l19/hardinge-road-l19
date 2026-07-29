@@ -1,44 +1,20 @@
 # Hardinge Road L19 Home
 
-> Official independent marketing website for a three-bedroom semi-detached house for sale on Hardinge Road, Liverpool L19.
+Official property information website for a three-bedroom semi-detached freehold house for sale at 41 Hardinge Road, Liverpool L19 4UN.
 
-## Core property facts
-- Status: Available; viewings open
-- Asking basis: Offers over £265,000
-- Property type: Semi-detached house
+- Price: Offers over £265,000
 - Bedrooms: 3
 - Bathrooms: 2
 - Reception rooms: 2
-- Tenure: Freehold
-- Council Tax: Band B
 - Approximate floor area: 96.6 m² / 1,040 sq ft
-- Outdoor space: Private rear garden with patio and lawn
-- Official listing: https://www.rightmove.co.uk/properties/91415346#/?channel=RES_BUY
+- Tenure: Freehold
+- Council Tax Band: B
+- Garden: Private rear garden with patio and lawn
+- Status: Available; viewings open
+- Agent: Entwistle Green - Allerton Sales
+- Viewing telephone: 0151 453 3741
+- Office telephone: 01513 827414
 
-## Nearest supplied railway stations
-- Liverpool South Parkway Station: approximately 0.5 miles
-- West Allerton Station: approximately 0.6 miles
-- Cressington Station: approximately 0.8 miles
-
-## Selected nearby schools from supplied area search
-- Springwood Heath Primary School: approximately 0.3 miles; state community school; ages 4–11; 231 pupils; mixed
-- Gilmour Primary School: approximately 0.5 miles; state school
-- Garston Church of England Primary School: approximately 0.6 miles; state school
-- Booker Avenue Infant School: approximately 0.6 miles; state school
-- Booker Avenue Junior School: approximately 0.6 miles; state school
-- The Academy of St Nicholas: approximately 0.8 miles; state school
-- ES Independent School: approximately 0.8 miles; independent school
-
-## Pages and data
-- Property page: https://hardinge-road-l19.github.io/hardinge-road-l19/
-- Area guide: https://hardinge-road-l19.github.io/hardinge-road-l19/area-guide.html
-- Printable brochure: https://hardinge-road-l19.github.io/hardinge-road-l19/brochure.html
-- Machine-readable property facts: https://hardinge-road-l19.github.io/hardinge-road-l19/property-data.json
-- Road-view video: https://hardinge-road-l19.github.io/hardinge-road-l19/hardinge-road-liverpool-l19-road-view.mp4
-
-## Buyer guidance
-All measurements, distances, school details, routes and availability are approximate and should be independently verified. Proximity to a school does not guarantee admission. All viewings and offers should be submitted through the selling agent.
-
-
-Illustrative affordability: £1,329 monthly repayment based on a £265,000 property price, £26,500 deposit, 5.33% interest rate and 30-year term. This is an illustration only.
-Road-view video: https://hardinge-road-l19.github.io/hardinge-road-l19/hardinge-road-liverpool-l19-road-view.mp4
+Primary page: https://hardinge-road-l19.github.io/hardinge-road-l19/
+Area guide: https://hardinge-road-l19.github.io/hardinge-road-l19/area-guide.html
+Machine-readable facts: https://hardinge-road-l19.github.io/hardinge-road-l19/property-data.json

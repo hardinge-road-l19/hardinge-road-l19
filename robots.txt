@@ -1,19 +1,16 @@
 User-agent: *
 Allow: /
 
-User-agent: Googlebot
-Allow: /
-
-User-agent: Googlebot-Image
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
 User-agent: OAI-SearchBot
 Allow: /
 
 User-agent: GPTBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
 Allow: /
 
 Sitemap: https://hardinge-road-l19.github.io/hardinge-road-l19/sitemap.xml

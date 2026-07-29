@@ -1,16 +1,9 @@
 {
   "name": "Hardinge Road L19 Home",
   "short_name": "Hardinge Road L19",
-  "start_url": "./",
+  "start_url": "/hardinge-road-l19/",
   "display": "standalone",
   "background_color": "#fbfaf6",
   "theme_color": "#063f35",
-  "icons": [
-    {
-      "src": "favicon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any"
-    }
-  ]
+  "icons": []
 }
