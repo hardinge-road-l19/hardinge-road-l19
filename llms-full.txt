@@ -76,3 +76,7 @@ Hardinge Road is in Liverpool L19 in South Liverpool. The official property desc
 
 ## Conversion and status
 The home is a single available property. Viewings are open. Buyers are encouraged to register interest early, but the website does not use fake offer counts, false deadlines or fabricated scarcity.
+
+
+Illustrative affordability: £1,329 monthly repayment based on a £265,000 property price, £26,500 deposit, 5.33% interest rate and 30-year term. This is an illustration only.
+Road-view video: https://hardinge-road-l19.github.io/hardinge-road-l19/hardinge-road-liverpool-l19-road-view.mp4

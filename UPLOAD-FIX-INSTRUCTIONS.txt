@@ -1,0 +1,7 @@
+UPLOAD THESE FILES TO THE ROOT OF YOUR GITHUB REPOSITORY.
+
+1. Select every file in this folder.
+2. GitHub > Add file > Upload files.
+3. Drag all files into the upload area.
+4. Commit message: Fix market images, video, affordability and responsive layout
+5. Wait for Pages to deploy, then refresh with Ctrl + Shift + R.

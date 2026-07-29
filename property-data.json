@@ -238,5 +238,15 @@
     "email": "allerton@entwistlegreen.co.uk"
   },
   "lastUpdated": "2026-07-29",
-  "disclaimer": "All measurements, distances, availability, school details and property information are approximate and should be independently verified."
+  "disclaimer": "All measurements, distances, availability, school details and property information are approximate and should be independently verified.",
+  "affordabilityIllustration": {
+    "monthlyRepayment": 1329,
+    "propertyPrice": 265000,
+    "deposit": 26500,
+    "interestRatePercent": 5.33,
+    "termYears": 30,
+    "currency": "GBP",
+    "note": "Illustrative only. Actual repayments depend on the lender, mortgage product, fees and personal circumstances."
+  },
+  "roadViewVideo": "https://hardinge-road-l19.github.io/hardinge-road-l19/hardinge-road-liverpool-l19-road-view.mp4"
 }
