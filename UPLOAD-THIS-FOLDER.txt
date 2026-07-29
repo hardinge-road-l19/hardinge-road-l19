@@ -1,0 +1,13 @@
+HARDINGE ROAD L19 — FLAT GITHUB UPLOAD
+
+This version is designed for your current GitHub repository, where all files are placed at the repository root.
+
+1. Open GitHub repository hardinge-road-l19.
+2. Choose Add file > Upload files.
+3. Select every file inside this folder (Ctrl+A).
+4. Drag all files into GitHub.
+5. Commit directly to main with: Fix image paths and upload correct property images
+6. Wait 2–5 minutes, then hard-refresh the live website with Ctrl+Shift+R.
+
+Do not upload the ZIP file itself.
+The old assets folder can remain; this corrected site no longer depends on it.

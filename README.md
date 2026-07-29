@@ -1,37 +1,18 @@
-# Hardinge Road L19 property website
+# Hardinge Road L19 Website — Corrected GitHub Upload
 
-Live address: https://hardinge-road-l19.github.io/hardinge-road-l19/
+This corrected package fixes the unstyled live page by embedding the full CSS directly in every HTML page and by using the correct GitHub Pages project base path: `/hardinge-road-l19/`.
 
-## Upload all files in one batch
+## Upload
 
-1. Extract the ZIP file.
-2. Open the folder named `hardinge-road-l19-github-upload`.
-3. Select **every file and folder inside it**.
-4. Drag the selection into GitHub's **Upload files** box.
-5. Wait for the upload list to finish.
-6. Use commit message: `Upload complete Hardinge Road L19 property website`.
-7. Commit directly to the `main` branch.
+1. Extract this ZIP.
+2. Open the extracted `hardinge-road-l19-fixed` folder.
+3. Select **everything inside** the folder.
+4. Drag all files and folders into the GitHub upload box.
+5. Existing files should be replaced when committed.
+6. Commit message: `Fix website styling and GitHub Pages paths`.
+7. Wait 2–5 minutes for GitHub Pages to redeploy.
+8. Open the site in an Incognito window or press **Ctrl + Shift + R**.
 
-Do not upload only the ZIP file. `index.html` must be visible at the repository root alongside `area-guide.html`, `sitemap.xml`, `robots.txt` and the `assets` folder.
+Live URL: https://hardinge-road-l19.github.io/hardinge-road-l19/
 
-## Included
-- Responsive property landing page for mobile, tablet and desktop
-- Property gallery, floor plan and printable brochure
-- Market price-anchor images linked to the supplied Rightmove search
-- Truthful urgency and viewing calls to action
-- Local road video, Street View preview and road map
-- Interactive Google Map loaded only after a visitor selects it
-- Nearest-station cards: Liverpool South Parkway 0.5 miles, West Allerton 0.6 miles and Cressington 0.8 miles
-- Nearby-schools map and complete supplied school directory
-- SEO metadata, canonical URLs, JSON-LD, sitemap, video/image sitemap entries, robots.txt and machine-readable property data
-- OAI-SearchBot and Google/Bing crawler access
-- Consent-based Google Analytics placeholder
-
-## Google Search Console
-After the files are live, add the site as a URL-prefix property using `https://hardinge-road-l19.github.io/hardinge-road-l19/`. Google may provide an HTML verification file. Upload that file to the repository root without renaming it, then complete verification.
-
-## Google Analytics
-Replace `G-XXXXXXXXXX` in the HTML files with the real GA4 Measurement ID when available. Until then, analytics does not load.
-
-## Important
-Property status, asking price, school information and market-comparison screenshots can become outdated. Update them promptly when the property is sold, repriced or no longer available.
+Diagnostic URL after upload: https://hardinge-road-l19.github.io/hardinge-road-l19/file-check.html

@@ -34,7 +34,7 @@
 - Area guide: https://hardinge-road-l19.github.io/hardinge-road-l19/area-guide.html
 - Printable brochure: https://hardinge-road-l19.github.io/hardinge-road-l19/brochure.html
 - Machine-readable property facts: https://hardinge-road-l19.github.io/hardinge-road-l19/property-data.json
-- Road-view video: https://hardinge-road-l19.github.io/hardinge-road-l19/assets/media/hardinge-road-liverpool-l19-road-view.mp4
+- Road-view video: https://hardinge-road-l19.github.io/hardinge-road-l19/hardinge-road-liverpool-l19-road-view.mp4
 
 ## Buyer guidance
 All measurements, distances, school details, routes and availability are approximate and should be independently verified. Proximity to a school does not guarantee admission. All viewings and offers should be submitted through the selling agent.

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url><loc>https://hardinge-road-l19.github.io/hardinge-road-l19/</loc><lastmod>2026-07-29</lastmod><changefreq>daily</changefreq><priority>1.0</priority>
-<image:image><image:loc>https://hardinge-road-l19.github.io/hardinge-road-l19/assets/images/front-exterior-1024.webp</image:loc><image:caption>Three-bedroom semi-detached house for sale on Hardinge Road, Liverpool L19</image:caption></image:image>
-<image:image><image:loc>https://hardinge-road-l19.github.io/hardinge-road-l19/assets/images/hardinge-road-liverpool-l19-floorplan.webp</image:loc><image:caption>Floor plan for the three-bedroom house on Hardinge Road</image:caption></image:image>
+<image:image><image:loc>https://hardinge-road-l19.github.io/hardinge-road-l19/front-exterior-1024.webp</image:loc><image:caption>Three-bedroom semi-detached house for sale on Hardinge Road, Liverpool L19</image:caption></image:image>
+<image:image><image:loc>https://hardinge-road-l19.github.io/hardinge-road-l19/hardinge-road-liverpool-l19-floorplan.webp</image:loc><image:caption>Floor plan for the three-bedroom house on Hardinge Road</image:caption></image:image>
 </url>
 <url><loc>https://hardinge-road-l19.github.io/hardinge-road-l19/area-guide.html</loc><lastmod>2026-07-29</lastmod><changefreq>weekly</changefreq><priority>0.85</priority>
-<image:image><image:loc>https://hardinge-road-l19.github.io/hardinge-road-l19/assets/images/hardinge-road-street-view.webp</image:loc><image:caption>Street view of Hardinge Road, Liverpool L19</image:caption></image:image>
-<image:image><image:loc>https://hardinge-road-l19.github.io/hardinge-road-l19/assets/images/nearby-schools-map-liverpool-l19.webp</image:loc><image:caption>Nearby schools map for Hardinge Road, Liverpool L19</image:caption></image:image>
-<video:video><video:thumbnail_loc>https://hardinge-road-l19.github.io/hardinge-road-l19/assets/images/hardinge-road-street-view.webp</video:thumbnail_loc><video:title>Hardinge Road Liverpool L19 road view</video:title><video:description>Short road-level view of Hardinge Road near the property for sale.</video:description><video:content_loc>https://hardinge-road-l19.github.io/hardinge-road-l19/assets/media/hardinge-road-liverpool-l19-road-view.mp4</video:content_loc><video:duration>5</video:duration><video:publication_date>2026-07-29</video:publication_date></video:video>
+<image:image><image:loc>https://hardinge-road-l19.github.io/hardinge-road-l19/hardinge-road-street-view.webp</image:loc><image:caption>Street view of Hardinge Road, Liverpool L19</image:caption></image:image>
+<image:image><image:loc>https://hardinge-road-l19.github.io/hardinge-road-l19/nearby-schools-map-liverpool-l19.webp</image:loc><image:caption>Nearby schools map for Hardinge Road, Liverpool L19</image:caption></image:image>
+<video:video><video:thumbnail_loc>https://hardinge-road-l19.github.io/hardinge-road-l19/hardinge-road-street-view.webp</video:thumbnail_loc><video:title>Hardinge Road Liverpool L19 road view</video:title><video:description>Short road-level view of Hardinge Road near the property for sale.</video:description><video:content_loc>https://hardinge-road-l19.github.io/hardinge-road-l19/hardinge-road-liverpool-l19-road-view.mp4</video:content_loc><video:duration>5</video:duration><video:publication_date>2026-07-29</video:publication_date></video:video>
 </url>
 <url><loc>https://hardinge-road-l19.github.io/hardinge-road-l19/brochure.html</loc><lastmod>2026-07-29</lastmod><changefreq>weekly</changefreq><priority>0.55</priority></url>
 </urlset>
