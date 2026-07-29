@@ -1,0 +1,41 @@
+{
+  "property_photos": [
+    "front-exterior",
+    "living-room",
+    "living-room-alt",
+    "dining-room",
+    "dining-room-alt",
+    "fitted-kitchen",
+    "main-bedroom",
+    "bedroom-two",
+    "bedroom-three",
+    "family-bathroom",
+    "family-bathroom-alt",
+    "ground-floor-shower-room",
+    "garden-patio",
+    "rear-garden-wide",
+    "rear-exterior-garden"
+  ],
+  "floor_plan": "hardinge-road-liverpool-l19-floorplan.webp",
+  "local_area_images": [
+    "hardinge-road-street-view.webp",
+    "nearby-schools-map-liverpool-l19.webp"
+  ],
+  "comparison_images": [
+    "liverpool-property-market-example-01.webp",
+    "liverpool-property-market-example-02.webp",
+    "liverpool-property-market-example-03.webp",
+    "liverpool-property-market-example-04.webp",
+    "liverpool-property-market-example-05.webp",
+    "liverpool-property-market-example-06.webp",
+    "liverpool-property-market-example-07.webp",
+    "liverpool-property-market-example-08.webp",
+    "liverpool-property-market-example-09.webp",
+    "liverpool-property-market-example-10.webp",
+    "liverpool-property-market-example-11.webp"
+  ],
+  "video": "hardinge-road-liverpool-l19-road-view.mp4",
+  "excluded": [
+    "GitHub setup/settings screenshots are not used as property or map images."
+  ]
+}
